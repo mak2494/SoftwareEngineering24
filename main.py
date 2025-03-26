@@ -1,3 +1,4 @@
+import numpy
 print('hello world')
 from my_functions import estimate_max_hr
 
